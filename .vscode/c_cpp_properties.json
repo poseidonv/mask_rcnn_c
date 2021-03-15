@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/poseidon/Downloads/libtorch/include",
+                "/home/poseidon/Downloads/libtorch/include/torch/csrc/api/include/",
+                ""
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/gcc-5.3.0/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
